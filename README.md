@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mesut Mergen</h1>
 <h3 align="center">A passionate QA Test Engineer from Manisa/Turkey</h3>
 
-- 🌱 I'm currently learning * *API and Mobile Test Automation**
-
-- 💬 Ask me about **Manual Test and Automation Test**
-
-- 📫 How to reach me **mesut.mrgnn@gmail.com**
+👀 I always aim for the most functional, applicable, and readable code.<br>
+🌱 Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Engineer, passionate learner, and developer.<br>
+💞️ I’m currently focusing on Android, Python,  and Java Technologies.<br>
+📫 Proven strength and drive in group projects. Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.<br>
+🌱 I'm currently learning * *API and Mobile Test Automation** <br>
+💬 Ask me about **Manual Test and Automation Test** <br>
+📫 How to reach me **mesut.mrgnn@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mesut-mergen" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mesut-mergen" height="30" width=" 40" /></a>
+  
+  <a href="https://linkedin.com/in/mesut-mergen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mesut-mergen" height="30" width="40" /></a>
+  
 </p>
 <h3 align="left">Languages ​​and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
