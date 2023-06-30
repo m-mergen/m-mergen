@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mesut Mergen</h1>
-<h3 align="center">A passionate QA Test Engineer from Manisa/Turkey</h3>
+<h3 align="center">A passionate QA Test Engineer from İstanbul/Turkey</h3>
 
 👀 I always aim for the most functional, applicable, and readable code.<br>
 🌱 Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Engineer, passionate learner, and developer.<br>
